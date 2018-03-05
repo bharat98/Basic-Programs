@@ -125,3 +125,4 @@ int main()
     cout << total_people - total_killed_anyway - all_unique_kills + best << endl;
     return 0;
 }
+//https://www.hackerrank.com/contests/hourrank-26/challenges/cloudy-day
