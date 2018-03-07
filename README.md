@@ -6,3 +6,4 @@
   #### STL ####  
   > - [x] &nbsp; Sorting.
   >> - [x] &nbsp; Binary sorting.
+  >> - [x] &nbsp; sort( ).
