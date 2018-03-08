@@ -4,9 +4,9 @@
   - [ ] &nbsp; Cloudy Day.
   
   #### STL ####  
-  > - [x] &nbsp; Sorting.
+  > - [x] &nbsp; SORTING.
   >> - [ ] &nbsp; Binary sorting.
   >> - [x] &nbsp; sort( ).
   
-  > - [x] &nbsp; Searching.
+  > - [x] &nbsp; SEARCHING.
   >> - [x] &nbsp; binary_search().
