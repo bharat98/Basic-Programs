@@ -5,5 +5,8 @@
   
   #### STL ####  
   > - [x] &nbsp; Sorting.
-  >> - [x] &nbsp; Binary sorting.
+  >> - [ ] &nbsp; Binary sorting.
   >> - [x] &nbsp; sort( ).
+  
+  > - [x] &nbsp; Searching.
+  >> - [x] &nbsp; binary_search().
