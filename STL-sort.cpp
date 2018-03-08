@@ -7,6 +7,7 @@ using namespace std;
 int main(){
   int array[10];
   int n= sizeof(array)/sizeof(array[0]);
+  cout<<"Enter 10 elements :"<<endl;
   loop(i,n) cin>>array[i];
   
   sort(array,array+n);
