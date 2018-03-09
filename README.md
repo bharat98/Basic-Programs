@@ -9,4 +9,5 @@
   >> - [x] &nbsp; sort( ).
   
   > - [x] &nbsp; SEARCHING.
+  >> - [x] &nbsp; Liner Search.
   >> - [x] &nbsp; binary_search().
