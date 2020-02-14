@@ -16,3 +16,20 @@ mystring = "Don't confuse"      #The difference between the two is that using do
 print(mystring)
 
 
+
+float_int=int(float_var)        #Type casting float to integer.
+print(float_int)
+int_float = float(float_int)    #Type casting float to integer
+print(int_float)
+
+
+
+a,b=1,2                         #Arithmetic Operations
+print(a+b)
+a='Hi'
+b='world'
+print(a+' '+b)
+
+
+variable = input()              #Takes input till '/n' or enter.
+print(variable)
